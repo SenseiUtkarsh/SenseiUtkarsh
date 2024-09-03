@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🍃 I’m currently learning<br>Python & Python ML and DS<br>🍂 Fun fact<br>I love experimenting and learning ,<br>
+<br>🍃 I’m currently learning<br>Python & Python-ML and DS also c++<br>🍂 Fun fact<br>I love experimenting and learning ,<br>
 
 
 # 💻 Tech Stack:
