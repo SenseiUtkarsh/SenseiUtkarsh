@@ -1,11 +1,11 @@
-# 💫 About Me:
-<br>🍃 I’m currently learning<br>Python & Python-ML and DS also c++<br>🍂 Fun fact<br>I love experimenting and learning ,<br>
+## :wave: Hey everyone, I'm Utkarsh 
+![Sensei-Utkarsexx](https://github.com/user-attachments/assets/3e1f702c-d3c8-404e-80ad-f7281067cd9e)
 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SenseiUtkarsh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SenseiUtkarsh&theme=one_dark_pro&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SenseiUtkarsh&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+<img align="right" width="150" height="150" src="https://media.tenor.com/XU5qZNJA2JIAAAAi/zenitsu-pixel-art.gif" alt="Zenitsu"></a>
+### :dizzy: Some Fun Facts about me:
+I am deeply engaged in the pursuit of knowledge, particularly in the fields of philosophy, mathematics, and physics. My fascination with these subjects fuels my intellectual curiosity, driving me to explore complex concepts and engage in thoughtful discussions. 
+In addition to my academic interests, i'm also passionate about coding!
+#### Excited to dive into Python and eager to master frontend development and C++ in no time! 
+### Watch my contribution graph get eaten by the snake :snake:
+![github-snake](https://github.com/user-attachments/assets/544e9b23-5504-46ec-8de2-e946b903bcbf)
